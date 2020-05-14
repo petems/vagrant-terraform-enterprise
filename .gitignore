@@ -1,0 +1,6 @@
+# General
+.vagrant/
+work/
+*.rli
+*.log
+disk/*
